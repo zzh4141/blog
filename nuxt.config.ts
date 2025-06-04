@@ -18,7 +18,8 @@ export default defineNuxtConfig({
             link: [
                 { rel: 'icon', href: blogConfig.favicon },
                 { rel: 'alternate', type: 'application/atom+xml', href: '/atom.xml' },
-                { rel: 'preconnect', href: blogConfig.twikoo.preload },
+                // 添加 Giscus 预连接
+                { rel: 'preconnect', href: 'https://giscus.app', crossorigin: '' },
 
                 { rel: 'preconnect', href: 'https://cdn-font.hyperos.mi.com' },
                 // 浏览器渲染中文 VF 字重有问题
