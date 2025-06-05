@@ -4,5 +4,18 @@ import { getGhAvatar } from './utils/img'
 export default [{
     name: '相谈甚多',
     desc: '',
-    entries: [],
+    entries: [{
+            author: '冬烟 の 小窝',
+            sitenick: '小窝',
+            title: '冬烟 の 小窝',
+            desc: '一个什么都可能会写的博客',
+            link: 'https://blog.45m.fun/',
+            feed: 'https://blog.45m.fun/',
+            icon: 'https://q.qlogo.cn/g?b=qq&nk=3010013479&s=640',
+            avatar: 'https://q.qlogo.cn/g?b=qq&nk=3010013479&s=640',
+            archs: ['Nuxt', 'Vercel'],
+            date: '2020-01-29',
+            comment: '技术好友,喜欢各种折腾',
+        },
+    ],
 }] satisfies FeedGroup[]
