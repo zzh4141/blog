@@ -8,7 +8,7 @@ export default [{
             author: '冬烟 の 小窝',
             sitenick: '小窝',
             title: '冬烟 の 小窝',
-            desc: '一个什么都可能会写的博客',
+            desc: '你猜，我猜你肯定猜不到嘿嘿……',
             link: 'https://blog.45m.fun/',
             feed: 'https://blog.45m.fun/',
             icon: 'https://q.qlogo.cn/g?b=qq&nk=3010013479&s=640',
