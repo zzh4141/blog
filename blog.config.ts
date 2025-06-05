@@ -14,7 +14,7 @@ const blogConfig = {
     description: 'zzh4141的个人博客，分享技术与生活。“折腾不止，摸鱼生活——摸门🙏🏻”。',
     author: {
         name: 'zzh4141',
-        avatar: '\icon.jpg',
+        avatar: '/avatar/icon.jpg',
         email: 'aww1234eg@163.com',
         homepage: 'https://zzh4141.cn/',
     },
@@ -23,9 +23,9 @@ const blogConfig = {
         name: '署名-非商业性使用-相同方式共享 4.0 国际',
         url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
     },
-    favicon: ' \icon.jpg',
+    favicon: '/avatar/icon.jpg',
     language: 'zh-Hans',
-    qqGroup: '169994096',
+    qqGroup: '3988614224',
     timeEstablished: '2025-06-30',
     timezone: 'Asia/Shanghai',
     url: 'https://zzh4141.cn/',
@@ -60,12 +60,12 @@ const blogConfig = {
     },
 
     // 用于 Twikoo 评论系统
-    //twikoo: {
-        //js: 'https://gcore.jsdelivr.net/npm/twikoo@1.6.40/dist/twikoo.all.min.js',
+    twikoo: {
+        js: 'https://gcore.jsdelivr.net/npm/twikoo@1.6.40/dist/twikoo.all.min.js',
         // 自己部署的 Twikoo 服务
-       // envId: 'https://twikoo.zhilu.cyou/',
-        //preload: 'https://twikoo.zhilu.cyou/',
-    //},
+        envId: 'https://twikoo.bioc.fun/',
+        preload: 'https://twikoo.bioc.fun/',
+    },
 }
 
 // 用于生成 OPML 和友链页面配置
