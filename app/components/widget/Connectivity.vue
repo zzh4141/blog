@@ -14,7 +14,7 @@ const appConfig = useAppConfig()
         }"
     >
         <!-- TODO: 优化技术架构展示 -->
-        <p>，托管于 Vercel；博客由 Nuxt Content 驱动，使用去图图床。</p>
+        <p>托管于 Vercel；博客由 Nuxt Content 驱动，使用去图图床。</p>
         <p>
             zzh4141的小窝<br>
             一个普普通通的学生<br>
