@@ -68,6 +68,8 @@ export default defineAppConfig({
                 items: [
                     { icon: 'simple-icons:nuxtdotjs', text: 'Nuxt开源博客主题', url: 'https://github.com/L33Z22L11/blog-v3' },
                     { icon: 'ph:swatches-bold', text: '主题和组件文档', url: 'https://blog.zhilu.cyou/theme' },
+                    { icon: 'ph:certificate-bold', text: '萌ICP备20258870号', url: 'https://icp.gov.moe/?keyword=20258870' },
+                    { icon: 'ph:certificate-bold', text: '团ICP备20254236号', url: 'https://icp.星.fun/id.php?keyword=20254236' },   
                 ],
             },
         ] satisfies Nav,
