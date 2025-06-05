@@ -14,7 +14,7 @@ const blogConfig = {
     description: 'zzh4141的个人博客，分享技术与生活。“折腾不止，摸鱼生活——摸门🙏🏻”。',
     author: {
         name: 'zzh4141',
-        avatar: '/avatar/icon.jpg',
+        avatar: 'https://zzh4141.cn/avatar/icon.jpg',
         email: 'aww1234eg@163.com',
         homepage: 'https://zzh4141.cn/',
     },
