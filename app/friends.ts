@@ -18,7 +18,7 @@ export default [{
             comment: '技术好友,喜欢各种折腾',
         },{
             author: '玄枵',
-            sitenick: '玄枵',
+            sitenick: '神殇',
             title: '玄枵',
             desc: '欲买桂花重载酒，终不似，少年游',
             link: 'https://blog.shenshang.online',
