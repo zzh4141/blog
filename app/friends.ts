@@ -40,6 +40,17 @@ export default [{
             archs: ['Halo', '服务器'],
             date: '2025-06-07',
             comment: '技术好友,喜欢各种折腾',
-        },
+        },{
+            author: '未雨屏の博客',
+            sitenick: 'Dr.未雨屏',
+            title: '未雨屏の博客',
+            desc: '我曾经也是一个懵懂的孩子··········',
+            link: 'https://weiyuping.top/',
+            feed: 'https://weiyuping.top/',
+            icon: 'https://avatars.githubusercontent.com/u/91879812?v=4',
+            avatar: 'https://avatars.githubusercontent.com/u/91879812?v=4',
+            archs: ['Hexo', '服务器'],
+            date: '2025-06-09 ',
+            comment: 'MC开服圈',
     ],
 }] satisfies FeedGroup[]
