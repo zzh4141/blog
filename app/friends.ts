@@ -52,5 +52,6 @@ export default [{
             archs: ['Hexo', '服务器'],
             date: '2025-06-09 ',
             comment: 'MC开服圈',
+        }
     ],
 }] satisfies FeedGroup[]
